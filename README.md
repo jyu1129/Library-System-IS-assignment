@@ -23,7 +23,7 @@
 - [ ] Company title as the header
 - [ ] Product and service, not process (get the paper, teacher wrote alot bout it)
 - [ ] Business operations need to include size of business operation, market coverage, annual sales turnover
-- [ ] No handwriting for the Organizational Structure pls
+- [x] No handwriting for the Organizational Structure pls (use word file instead of pdf to print otherwise cannot print visio file)
     
 #### Week 3:
 - [ ] Need a way to differentiate staff for each request form (Add staff id)
