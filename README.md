@@ -8,7 +8,7 @@
 #### Week 8:
 - [x] Business rule (rough draft)
 - [ ] Business rule
-- [ ] Initial ERD (nonid attributes & need to be related to dfd)
+- [ ] Initial ERD (nonid attributes & need to be related to dfd) (Yee Jun Hoong)
 - [ ] Final ERD
     
 #### Week 9:
