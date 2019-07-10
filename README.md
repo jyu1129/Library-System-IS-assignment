@@ -37,8 +37,9 @@
 - [ ] Correct the number (Personnel cost)
     
 #### Week 5:
-- [ ] Interview form should be filled by normal employees
-- [ ] Change format for the interview
+- [x] Interview form should be filled by normal employees
+- [x] Change format for the interview
+- [ ] Change interview questions
 - [ ] Questionnaire:
   - [ ] Disclaimers / Instructions / Intro
   - [ ] User can do annonymously
