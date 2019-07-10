@@ -6,7 +6,8 @@
 
 ### TODO:
 #### Week 8:
-- [ ] Business rule (Yu Poh Shun)
+- [x] Business rule (rough draft)
+- [ ] Business rule
 - [ ] Initial ERD (nonid attributes & need to be related to dfd)
 - [ ] Final ERD
     
