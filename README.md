@@ -50,6 +50,6 @@
 
     
 #### Week 6 & 7:
-- [ ] Context diagram 1 arrow reversed
+- [x] Context diagram 1 arrow reversed
 - [ ] Need a file to store generated report
 - [ ] DFD1 not tally with DFD0
