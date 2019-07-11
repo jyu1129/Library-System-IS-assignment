@@ -25,8 +25,8 @@
 - [x] No handwriting for the Organizational Structure pls (use word file instead of pdf to print otherwise cannot print visio file)
     
 #### Week 3:
-- [ ] Need a way to differentiate staff for each request form (Add staff id)
-- [ ] Add "Comment" field for IT personnel to fill in
+- [x] Need a way to differentiate staff for each request form (Add staff id)
+- [x] Add "Comment" field for IT personnel to fill in
 - [ ] Provide main point first before explaining (Reasons, ps. you can get the paper to knw wat i mean)
     
 #### Week 4:
