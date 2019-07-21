@@ -6,10 +6,10 @@
 
 ### TODO:    
 #### Week 9:
-- [ ] 3 Functional Level
-- [ ] First level- basically the system name
+- [x] 3 Functional Level
+- [x] First level- basically the system name
 - [ ] Second level- main processes (related process only, choose 2 to brief)
-- [ ] Third level- all the sub-process from dfd 0
+- [x] Third level- all the sub-process from dfd 0
 
 #### Week 10:
 - [ ] All input screen
