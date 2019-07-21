@@ -49,8 +49,10 @@
   - [ ] Scaling (1=very bad, 5=very good)
 - [ ] Font need to be formal
 
-    
 #### Week 6 & 7:
 - [x] Context diagram 1 arrow reversed
 - [ ] Need a file to store generated report
 - [ ] DFD1 not tally with DFD0
+
+#### Week 8:
+- [ ] Nothing yet
