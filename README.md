@@ -4,18 +4,19 @@
 #### Please add your name beside the task you are currently doing. Exp: 
 - [ ] Bootup Screen (Tan Qun Yih)
 
-### TODO:
-#### Week 8:
-- [ ] Business rule
-- [ ] Initial ERD (nonid attributes & need to be related to dfd)
-- [ ] Final ERD
-    
+### TODO:    
 #### Week 9:
 - [ ] 3 Functional Level
 - [ ] First level- basically the system name
 - [ ] Second level- main processes (related process only, choose 2 to brief)
 - [ ] Third level- all the sub-process from dfd 0
-    
+
+#### Week 10:
+- [ ] All input screen
+- [ ] Explain userfriendliness (nid 4)
+- [ ] Provide example with screenshot
+- [ ] Error screen if input is invalid
+
     
 ### Correction:
 #### Week 2:
