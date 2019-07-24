@@ -1,14 +1,11 @@
 # Library-System-IS-assignment
 ## DCO2 G2 Library System Assignment
 
-#### Please add your name beside the task you are currently doing. Exp: 
-- [ ] Bootup Screen (Tan Qun Yih)
-
 ### TODO:    
 #### Week 9:
 - [x] 3 Functional Level
 - [x] First level- basically the system name
-- [ ] Second level- main processes (related process only, choose 2 to brief)
+- [x] Second level- main processes (related process only, choose 2 to brief)
 - [x] Third level- all the sub-process from dfd 0
 
 #### Week 10:
